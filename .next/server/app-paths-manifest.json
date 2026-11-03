@@ -1,0 +1,7 @@
+{
+  "/dashboard/page": "app/dashboard/page.js",
+  "/destinasi/page": "app/destinasi/page.js",
+  "/kunjungan/page": "app/kunjungan/page.js",
+  "/transaksi/page": "app/transaksi/page.js",
+  "/laporan/page": "app/laporan/page.js"
+}
